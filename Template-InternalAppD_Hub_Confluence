@@ -1,0 +1,1773 @@
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<p class="auto-cursor-target">
+  <ac:image ac:align="center" ac:height="87" ac:thumbnail="true">
+    <ri:attachment ri:filename="appd2.png"/>
+  </ac:image>
+</p>
+<ac:structured-macro ac:macro-id="fa1661b3-a216-4782-83bb-a04b2449c413" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">black</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <p>
+      <span style="color: rgb(0,0,0);">  </span>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="8ff7f646-e85d-457c-a126-803db77e7748" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">Gray</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h1>
+      <span style="color: rgb(255,255,255);">Quick Navigation &amp; Highlights</span>
+    </h1>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="46e0e3e7-67aa-47b6-bb97-c921bd36fa4e" ac:name="section" ac:schema-version="1">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="2fa87de5-34f6-4420-9eee-35f56c968dd2" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <u>
+            <strong>Main Page Table of Contents:</strong>
+          </u>
+        </p>
+        <p>
+          <ac:structured-macro ac:macro-id="15f9a321-90ea-431b-afef-b47c7f96882f" ac:name="toc" ac:schema-version="1">
+            <ac:parameter ac:name="maxLevel">3</ac:parameter>
+            <ac:parameter ac:name="outline">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="2e741b7b-533a-4f68-8636-1a97865fb0c4" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <u>
+            <strong>Internal AppD Stories and Current Event High Lights</strong>
+          </u>
+        </p>
+        <table class="relative-table" style="width: 58.0352%;">
+          <colgroup>
+            <col style="width: 100.0%;"/>
+          </colgroup>
+          <tbody>
+            <tr>
+              <td>May 4th - Final App Migrated to SaaS Controller with Anomaly Detection!</td>
+            </tr>
+            <tr>
+              <td>May 20th - AppD for New Hires - Foundations Accelerator</td>
+            </tr>
+            <tr>
+              <td>May 28th - Full Deployment Automation Via Ansible Available</td>
+            </tr>
+            <tr>
+              <td>Jun 13th - Engineer-Lead Lunch and Learn over Dashboarding Tips</td>
+            </tr>
+            <tr>
+              <td>Jun 22nd - Production Controller Maintenance</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="auto-cursor-target">
+          <br/>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p>
+  <br/>
+</p>
+<p>
+  <br/>
+</p>
+<p>
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="89f137a7-c15e-4f8c-9d71-8fa90e5c5b4d" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">black</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <p>
+      <span style="color: rgb(0,0,0);">  </span>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="9b34f6ce-400f-4f77-92fe-37b3245334e0" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">violet</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h1>
+      <strong>Introduction</strong>
+    </h1>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p>The Purpose of the internal AppDynamics (AppD) Hub is to enable the user-base to be confident and successful with the tool, AppDynamics. It can be used to navigate the self-service nature of our onboarding, to using the tool effectively, while giving options to get help if/when needed.</p>
+<p>
+  <strong>What is AppDynamics (AppD)? </strong>AppD is a collection of powerful monitoring and observability solutions, that teams can take advantage of to know what is going on in their apps in a more proactive way, as opposed to a reactive one. While still being a powerful pane of glass to see what is going on when reaction is forced, due to some outside attack or outage, etc.. </p>
+<p>Beyond the product, AppDynamics is a partner in helping users be successful with the tool and offer a lot of good learning opportunities in various platforms. There's a wide range of content offered, from self-service and on-demand, to engineer/instructor-lead workshops, presentation of accelerators, or AppD University deep-dive courses, which prepare us for official certifications.</p>
+<p style="text-align: center;">
+  <br/>
+</p>
+<p style="text-align: center;">
+  <ac:structured-macro ac:macro-id="8d22681b-55da-42b1-8058-055d6f056770" ac:name="widget" ac:schema-version="1">
+    <ac:parameter ac:name="url">
+      <ri:url ri:value="https://www.youtube.com/watch?v=sFuFotJD1vM"/>
+    </ac:parameter>
+  </ac:structured-macro>
+  <ac:structured-macro ac:macro-id="2cb66307-af14-4f7f-a0b5-98287f701506" ac:name="widget" ac:schema-version="1">
+    <ac:parameter ac:name="url">
+      <ri:url ri:value="https://www.youtube.com/watch?v=vFy1_uBgktw"/>
+    </ac:parameter>
+  </ac:structured-macro>
+</p>
+<p style="text-align: left;">
+  <br/>
+</p>
+<p>
+  <br/>
+</p>
+<p>
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="c39c7bd8-d965-40ca-8a58-abf1e313a725" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">black</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <p>
+      <span style="color: rgb(0,0,0);">  </span>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="3bee8ed2-abd3-421c-97a5-4b9c2c247f4b" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">blue</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h1>
+      <strong>Requests and Contact Info</strong>
+    </h1>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="88dfd412-ea0e-4b94-89b2-e21d7a954802" ac:name="section" ac:schema-version="1">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="30efdba9-e39f-4407-819b-e3cb528d48e1" ac:name="section" ac:schema-version="1">
+      <ac:parameter ac:name="border">true</ac:parameter>
+      <ac:rich-text-body>
+        <p class="auto-cursor-target">
+          <br/>
+        </p>
+        <ac:structured-macro ac:macro-id="1d3c939a-dd07-4bf1-be22-3949daa840d3" ac:name="column" ac:schema-version="1">
+          <ac:parameter ac:name="width">33%</ac:parameter>
+          <ac:rich-text-body>
+            <p>
+              <u>
+                <strong>Onboarding:</strong>
+              </u>
+            </p>
+            <p>
+              <em>
+                <strong>&lt;&lt;CLIENT'S INTAKE FORM/LINK OR INSTRUCTIONS.&gt;&gt;</strong>
+              </em>
+            </p>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+        <p class="auto-cursor-target">
+          <br/>
+        </p>
+        <ac:structured-macro ac:macro-id="033970ab-ee3e-4726-a00f-22b612b396e3" ac:name="column" ac:schema-version="1">
+          <ac:parameter ac:name="width">33%</ac:parameter>
+          <ac:rich-text-body>
+            <p>
+              <u>
+                <strong>Related Requests (access, break/fix, workshops):</strong>
+              </u>
+            </p>
+            <p>
+              <em>
+                <strong>&lt;&lt;CLIENT'S OTHER REQUEST TYPES AND HYPERLINKS&gt;&gt;</strong>
+              </em>
+            </p>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+        <p class="auto-cursor-target">
+          <br/>
+        </p>
+        <ac:structured-macro ac:macro-id="67b199c0-ce46-4e59-a8ec-bc305f4d4424" ac:name="column" ac:schema-version="1">
+          <ac:parameter ac:name="width">33%</ac:parameter>
+          <ac:rich-text-body>
+            <p>
+              <u>
+                <strong>Contact Info:</strong>
+              </u>
+            </p>
+            <p>
+              <strong>Internal AppD Admins</strong>
+            </p>
+            <ac:structured-macro ac:macro-id="8fa209d0-18fa-44cf-8d0c-1f01bee0b6f9" ac:name="span" ac:schema-version="1">
+              <ac:parameter ac:name="id">admin</ac:parameter>
+              <ac:parameter ac:name="dir">lrt</ac:parameter>
+              <ac:parameter ac:name="title">admin</ac:parameter>
+              <ac:parameter ac:name="atlassian-macro-output-type">BLOCK</ac:parameter>
+              <ac:rich-text-body>
+                <ac:structured-macro ac:macro-id="d19d43ca-3f41-4f70-9545-6b75911fff82" ac:name="auibutton" ac:schema-version="1">
+                  <ac:parameter ac:name="icon">help</ac:parameter>
+                  <ac:parameter ac:name="title">Contact AppD Admins</ac:parameter>
+                  <ac:parameter ac:name="type">primary</ac:parameter>
+                  <ac:parameter ac:name="url">
+                    <a href="https://help.appdynamics.com/hc/en-us/requests/">https://help.appdynamics.com/hc/en-us/requests/</a>
+                  </ac:parameter>
+                  <ac:parameter ac:name="target">true</ac:parameter>
+                </ac:structured-macro>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+            <p>
+              <u>
+                <strong>
+                  <ac:structured-macro ac:macro-id="a7ee3c08-c944-43e4-9bf3-d7e9eb3e370a" ac:name="tooltip" ac:schema-version="1">
+                    <ac:parameter ac:name="id">admin</ac:parameter>
+                    <ac:parameter ac:name="text">Use this link to contact your Internal AppD Admins.</ac:parameter>
+                    <ac:parameter ac:name="direction">W</ac:parameter>
+                  </ac:structured-macro>
+                </strong>
+              </u>
+            </p>
+            <p>
+              <br/>
+            </p>
+            <p>
+              <strong>AppD Core Help</strong>
+            </p>
+            <ac:structured-macro ac:macro-id="1a038994-23b2-4888-9905-bb8d46ec1886" ac:name="span" ac:schema-version="1">
+              <ac:parameter ac:name="id">support</ac:parameter>
+              <ac:parameter ac:name="dir">lrt</ac:parameter>
+              <ac:parameter ac:name="title">test</ac:parameter>
+              <ac:parameter ac:name="atlassian-macro-output-type">BLOCK</ac:parameter>
+              <ac:rich-text-body>
+                <ac:structured-macro ac:macro-id="8aa39e38-c446-42a7-a43a-be753bbd2e32" ac:name="auibutton" ac:schema-version="1">
+                  <ac:parameter ac:name="icon">help</ac:parameter>
+                  <ac:parameter ac:name="title">Contact AppD Support</ac:parameter>
+                  <ac:parameter ac:name="type">primary</ac:parameter>
+                  <ac:parameter ac:name="url">
+                    <a href="https://help.appdynamics.com/hc/en-us/requests/">https://help.appdynamics.com/hc/en-us/requests/</a>
+                  </ac:parameter>
+                  <ac:parameter ac:name="target">true</ac:parameter>
+                </ac:structured-macro>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+            <p>
+              <ac:structured-macro ac:macro-id="bde298a1-018a-46bc-bfee-c239cd94aff9" ac:name="tooltip" ac:schema-version="1">
+                <ac:parameter ac:name="id">support</ac:parameter>
+                <ac:parameter ac:name="text">Collect AppD agent logs and send them to the vendor's support team for assistance with what the native AppD Admins cannot resolve, such as problems with the product/agents/controller, etc... (NOTE: This requires an account with appdynamics.com which may require approval from your internal AppD admin group.)</ac:parameter>
+                <ac:parameter ac:name="direction">NW</ac:parameter>
+              </ac:structured-macro>
+            </p>
+            <ac:structured-macro ac:macro-id="7ebf83f6-20a4-4e9a-9818-f16ada867c82" ac:name="span" ac:schema-version="1">
+              <ac:parameter ac:name="id">cs</ac:parameter>
+              <ac:parameter ac:name="dir">lrt</ac:parameter>
+              <ac:parameter ac:name="title">cs</ac:parameter>
+              <ac:parameter ac:name="atlassian-macro-output-type">BLOCK</ac:parameter>
+              <ac:rich-text-body>
+                <p>
+                  <ac:structured-macro ac:macro-id="06ab3f89-84d3-4e62-893b-ff7017244c6b" ac:name="auibutton" ac:schema-version="1">
+                    <ac:parameter ac:name="icon">email</ac:parameter>
+                    <ac:parameter ac:name="title">Contact AppD Customer Success</ac:parameter>
+                    <ac:parameter ac:name="type">primary</ac:parameter>
+                    <ac:parameter ac:name="url">
+                      <a href="https://help.appdynamics.com/hc/en-us/requests/">https://help.appdynamics.com/hc/en-us/requests/</a>
+                    </ac:parameter>
+                    <ac:parameter ac:name="target">true</ac:parameter>
+                  </ac:structured-macro>
+                </p>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+            <p class="auto-cursor-target">
+              <ac:structured-macro ac:macro-id="91f938e1-aee0-43c2-9ffc-94655b14cabc" ac:name="tooltip" ac:schema-version="1">
+                <ac:parameter ac:name="id">cs</ac:parameter>
+                <ac:parameter ac:name="text">Customer Success is a team of engineers who help us be successful with the product we already purchased. They engage with us free-of-cost to help us implement best practices and gain confidence as users of the tool through a blend of On Demand/Recorded Content, as well as Engineer Presented Accelerators and Demos over a variety of topics ranging from Basic to Advanced.</ac:parameter>
+                <ac:parameter ac:name="direction">NW</ac:parameter>
+              </ac:structured-macro>
+            </p>
+            <p class="auto-cursor-target">
+              <br/>
+            </p>
+            <ac:structured-macro ac:macro-id="6597c26a-a2bd-49c7-b726-92c0be74db65" ac:name="span" ac:schema-version="1">
+              <ac:parameter ac:name="id">edu</ac:parameter>
+              <ac:parameter ac:name="dir">lrt</ac:parameter>
+              <ac:parameter ac:name="title">edu</ac:parameter>
+              <ac:parameter ac:name="atlassian-macro-output-type">BLOCK</ac:parameter>
+              <ac:rich-text-body>
+                <p>
+                  <ac:structured-macro ac:macro-id="3b204603-9757-49b2-9c73-2a4607f87425" ac:name="auibutton" ac:schema-version="1">
+                    <ac:parameter ac:name="icon">info</ac:parameter>
+                    <ac:parameter ac:name="title">Contact AppD Education</ac:parameter>
+                    <ac:parameter ac:name="type">primary</ac:parameter>
+                    <ac:parameter ac:name="url">
+                      <a href="https://help.appdynamics.com/hc/en-us/requests/">https://help.appdynamics.com/hc/en-us/requests/</a>
+                    </ac:parameter>
+                    <ac:parameter ac:name="target">true</ac:parameter>
+                  </ac:structured-macro>
+                </p>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+            <p>
+              <ac:structured-macro ac:macro-id="bfee53e8-fedf-4327-810f-66d0e65f6ef3" ac:name="tooltip" ac:schema-version="1">
+                <ac:parameter ac:name="id">edu</ac:parameter>
+                <ac:parameter ac:name="text">The Education team engages with you for AppD University content or understanding your education status through your employer or individual purchases. They are also the go-to for certification and offer a wide range of self-paced, on demand and instructor lead content.</ac:parameter>
+                <ac:parameter ac:name="direction">NW</ac:parameter>
+              </ac:structured-macro>
+            </p>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+        <p class="auto-cursor-target">
+          <br/>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p>
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="12f47630-6902-4767-be64-ab78f5d86ce5" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">black</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <p>
+      <span style="color: rgb(0,0,0);">  </span>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="93356516-7101-47ae-aba1-40ee327599f4" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">cyan</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h1>
+      <strong>Enablement and Education</strong>
+    </h1>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="a9f5749c-c959-4a9a-a308-e646e7b207f0" ac:name="section" ac:schema-version="1">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="0673ce48-0eac-43f4-94d4-321ae0a51c6b" ac:name="bgcolor" ac:schema-version="1">
+      <ac:parameter ac:name="color">lavender</ac:parameter>
+      <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+      <ac:rich-text-body>
+        <h2>
+          <strong>Role Based Tracks (Combined Content)</strong>
+        </h2>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="ccce1a0e-3b46-405d-a698-88d9420408fe" ac:name="section" ac:schema-version="1">
+      <ac:parameter ac:name="border">true</ac:parameter>
+      <ac:rich-text-body>
+        <p class="auto-cursor-target">
+          <br/>
+        </p>
+        <ac:structured-macro ac:macro-id="51210e2e-37bd-4a96-8602-ed2473bcff1f" ac:name="column" ac:schema-version="1">
+          <ac:parameter ac:name="width">33%</ac:parameter>
+          <ac:rich-text-body>
+            <p>
+              <strong>
+                <u>AppD Admins</u>
+              </strong>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="79ee0579-8a1d-44ee-8131-2b119bac0dc5" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">AppdAdminTrack</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/x/wK-gCw">https://confluence.corp.appdynamics.com/x/wK-gCw</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+        <p class="auto-cursor-target">
+          <br/>
+        </p>
+        <ac:structured-macro ac:macro-id="c636e252-13d7-4dc5-b40c-031f526dcf8b" ac:name="column" ac:schema-version="1">
+          <ac:parameter ac:name="width">33%</ac:parameter>
+          <ac:rich-text-body>
+            <p>
+              <strong>
+                <u>Application Teams</u>
+              </strong>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="5faf9204-1a34-4057-b64b-585639da0dd6" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">AppOwner/MgmtTrack</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/x/F47gCw">https://confluence.corp.appdynamics.com/x/F47gCw</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="86653c46-6b40-47cc-8f79-a26663f6b3e9" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">DeveloperTrack</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/x/Go7gCw">https://confluence.corp.appdynamics.com/x/Go7gCw</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="cf35a3dc-c072-4351-912b-3cff5c61dda6" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">DevOpsTrack</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/x/Ho7gCw">https://confluence.corp.appdynamics.com/x/Ho7gCw</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="be2d34db-4616-4ad6-ad9f-600f571cb2e4" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">Monitoring/SupportTrack</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/x/H47gCw">https://confluence.corp.appdynamics.com/x/H47gCw</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="07780a7a-34dc-4b01-8445-29d7e5d44644" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">PerformanceEng/TesterTrack</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/x/HI7gCw">https://confluence.corp.appdynamics.com/x/HI7gCw</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+        <p class="auto-cursor-target">
+          <br/>
+        </p>
+        <ac:structured-macro ac:macro-id="190112cd-5919-4486-9245-10770f7d63f8" ac:name="column" ac:schema-version="1">
+          <ac:parameter ac:name="width">33%</ac:parameter>
+          <ac:rich-text-body>
+            <p>
+              <strong>
+                <u>System/Platform, Middleware, DB, Network or Security Teams</u>
+              </strong>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="b49b8b89-0f7f-49d0-aac3-6e154964dea9" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">DB_AdminTrack</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/DB+Admin+Track">https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/DB+Admin+Track</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="31411e73-6d33-4089-b35a-a9c0c74da570" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">Network/SecurityTrack</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/Network+and+Security+Track">https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/Network+and+Security+Track</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="d78667bc-db23-4382-b996-f9940c61adda" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">Middleware/Implementer Track</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/Middleware+or+Implementer+Track">https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/Middleware+or+Implementer+Track</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+            <p style="margin-left: 40.0px;">
+              <ac:structured-macro ac:macro-id="b1e4e6c8-df9c-46ac-b592-b919c5e45215" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">view</ac:parameter>
+                <ac:parameter ac:name="title">Server/PlatformAdminTrack</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/Server+and+Platform+Admin+Tracks">https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/Server+and+Platform+Admin+Tracks</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </p>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+        <p class="auto-cursor-target">
+          <br/>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="31238afc-a779-40ea-9897-0f616525f0b2" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">lavender</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h2>
+      <strong>Customer Success Content</strong>
+    </h2>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="07ea02dc-64b7-4358-831b-fb18247034a8" ac:name="section" ac:schema-version="1">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="4ebe7dbb-2fe6-4b97-a6c3-6df36429cf6a" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">33%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <strong>
+            <u>On-Demand Content</u>
+          </strong>
+        </p>
+        <p>
+          <span style="color: rgb(0,0,0);">
+            <strong>
+              <em>Bite-Sized Videos </em>
+            </strong>=</span> These Short and Sweet videos are presented by a CS Engineer, getting right to the point about a topic in a brief amount of time. Click the link below to expand the full list of appetizing on-demand videos!</p>
+        <ac:structured-macro ac:macro-id="1664f311-8318-45e5-a824-5d1a61122dce" ac:name="expand" ac:schema-version="1">
+          <ac:parameter ac:name="title">Bite-Sized Video List</ac:parameter>
+          <ac:rich-text-body>
+            <p class="auto-cursor-target">
+              <br/>
+            </p>
+            <table>
+              <colgroup>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Video Topic</td>
+                  <td>Category</td>
+                  <td>OneMob Link</td>
+                </tr>
+                <tr>
+                  <td>How to Manage Business Transactions</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/fk1z8c29tsa4p3y">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Business Transactions and Understanding Application Performance</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/8wfmkj2hvo481z4m">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to View and Output All Other Traffic BT's</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/ovqkrfv7mo90g5qh">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Add Context With Data Collectors</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/75zy3jwg14tdaxk">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Use Dash Studio</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/6vj4rlb2gzy8fcw">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Use the Metric Browser</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/7ok0j28xq5fld6s">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Capture Code and Business Metrics with Information Points</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/fyj0orx4k7dcbv2">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Troubleshoot Slow Performance and Errors</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/exai3mf0gbuj1lw">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Automated Transaction Diagnostics</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/6w1kxikm9z43r67n">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How To Configure Health Rules</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/ez8obghlst7bg03t">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Send Alerts with Policies &amp; Actions</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/k40aoshbmnwzrf1">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Capture Custom Data with Browser RUM</td>
+                  <td>BRUM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/75zy3jwg14tdaxk">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How To Instrument Browser Real User Monitoring </td>
+                  <td>BRUM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/l8pcu17kbomxg50">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Monitor the Health of a Database Agent</td>
+                  <td>DB Mon</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/xrbm0s5cenkow2v">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Instrument an Android Application</td>
+                  <td>MRUM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/do4850bry2vc9ua">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Deploy the Linux-Based Private Synthetics Agent</td>
+                  <td>Synthetics</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/tc9qm40hi3lrevk">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How to Configure Service Endpoints</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/gor71bej5qzxcpy">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How To Manually Upgrade Java Agent - Linux</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/bafzs9m6eu8c5ho">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How To Manually Upgrade Java Agent - Windows</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/bafzs9m6eu8c5ho">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How To Install Java Agent - EKS</td>
+                  <td>APM</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/rro4nxezsfqwkdxl">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How To Install Maven to Configure AppDynamics Extension</td>
+                  <td>EXT</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/korshfxpkx12janr">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How To Build an AppDynamics Extension</td>
+                  <td>EXT</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/s1248pkn2jb1yfku">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How To Configure an AppDynamics Extension</td>
+                  <td>EXT</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/vmlz0t6svf9ttjlu">link</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>How To K8 Cluster Agent Overview</td>
+                  <td>K8</td>
+                  <td>
+                    <a href="https://appdynamics.onemob.com/p/c6k335e5jxzm8aet">link</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p class="auto-cursor-target">
+              <br/>
+            </p>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+        <p>
+          <br/>
+        </p>
+        <p>
+          <strong>
+            <em>
+              <strong>
+                <em>CS Talks (Snacks) Webcast Video Recordings</em>
+              </strong>
+            </em>
+          </strong> = These videos are presented by a CS Engineer to extend on topics where it's too much to chew in a bite-sized video. Click the button below to expand the list of our on-demand CS-Talk Webcasts!</p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="8dce2dcf-b69b-4219-902b-fb65c439bc7d" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">CS-Talks: Webcast Recordings</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&amp;eventid=3616860&amp;sessionid=1&amp;key=CC0741BF827098190C539BEE20CFD64F&amp;groupId=3509211&amp;sourcepage=register">https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&amp;eventid=3616860&amp;sessionid=1&amp;key=CC0741BF827098190C539BEE20CFD64F&amp;groupId=3509211&amp;sourcepage=register</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <br/>
+        </p>
+        <p class="auto-cursor-target">
+          <span style="color: rgb(0,0,0);">
+            <em>
+              <strong>Accelerator (Dinner Plate) Webcast Video Recordings </strong>
+            </em>= These Full-Portioned</span> videos are presented by a CS Engineer to extend on topics where it takes over an hour to review, and still it could be gone into deeper. Click the button below to expand the list of our on-demand Accelerator Webcasts!</p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="a457b4c9-4cb5-4250-bcd9-cd14982412a6" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">Accelerators: Webcast Recordings</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&amp;eventid=3616860&amp;sessionid=1&amp;key=CC0741BF827098190C539BEE20CFD64F&amp;groupId=3509211&amp;sourcepage=register">https://event.on24.com/eventRegistration/EventLobbyServletV2?target=reg20V2.jsp&amp;eventid=3616860&amp;sessionid=1&amp;key=CC0741BF827098190C539BEE20CFD64F&amp;groupId=3509211&amp;sourcepage=register</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <br/>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="a81d7c37-9e24-4ca4-afde-66b8963d2e79" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">33%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <strong>
+            <u>Past Session Recordings:</u>
+          </strong>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <strong>Customer Success Enablement Webex Recordings</strong>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="4e8e38a4-3709-4a8a-be79-624d4c559319" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">Foundations</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <ac:link>
+                <ri:page ri:content-title="jenna.frantz@appdynamics.com"/>
+              </ac:link>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="80e462bf-241d-4393-bbc6-315e70c68d04" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">TroubleShooting</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <ac:link>
+                <ri:page ri:content-title="jenna.frantz@appdynamics.com"/>
+              </ac:link>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="9b5ff6d7-2514-4433-a7a7-806f1940a57a" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">HealthRules and Alerts</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <ac:link>
+                <ri:page ri:content-title="jenna.frantz@appdynamics.com"/>
+              </ac:link>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <br/>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <strong>Customer Success Enablement MS-Teams Recordings</strong>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="e8a94fcb-7e57-42e5-a049-3bf6c9fbf95a" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">Developer</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <ac:link>
+                <ri:page ri:content-title="jenna.frantz@appdynamics.com"/>
+              </ac:link>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="475e6f68-2f1f-4d3b-8591-7c9ed179f4ae" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">33%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <strong>
+            <u>New Accelerator/Demo/Working Session Sign-Ups: </u>
+          </strong>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <em>
+            <strong>Custom or Unlisted Topics</strong>
+          </em> - Coordinate with the Customer Success Manager to request a custom Accelerator Presentation/Demo/Discussion which are not listed in the above webcasts, but you feel is important for your team to learn. They'll schedule a private Presentations or hybrid Working Sessions with your CS Engineer and your local AppD Admins.</p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="a0cdacb4-865d-42f7-8a46-ef7105aedc27" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">email</ac:parameter>
+            <ac:parameter ac:name="title">EmailYourCSM</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <ac:link>
+                <ri:page ri:content-title="example@example.com"/>
+              </ac:link>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p style="text-align: center;">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="a08044f1-cf82-4218-a381-e0df165191db" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">lavender</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h2>
+      <strong>AppD University Content</strong>
+    </h2>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="49b76ce8-5901-4b9c-a24c-7f52b5f85068" ac:name="section" ac:schema-version="1">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="33449fff-55d0-40db-9277-e58cfcddc5ff" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <strong>
+            <u>Available Courses: </u>
+          </strong>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <strong>On-Demand AppD University Courses</strong>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="91c94635-6c2f-405c-b949-a7858b68cae1" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">workbox</ac:parameter>
+            <ac:parameter ac:name="title">On Demand and Self-Paced</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/AppD+University+Content#AppDUniversityContent-edu-od">https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/AppD+University+Content#AppDUniversityContent-edu-od</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <br/>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <strong>Instructor-Lead AppD University Courses</strong>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="b7ab41bd-107d-4bca-9dc8-aeb0589a2d8e" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">user</ac:parameter>
+            <ac:parameter ac:name="title">Instructor Lead Courses</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/AppD+University+Content#AppDUniversityContent-edu-il">https://confluence.corp.appdynamics.com/display/~cmbonann@appdynamics.com/AppD+University+Content#AppDUniversityContent-edu-il</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="4b2b6d10-970b-450b-a169-95163463f82f" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <strong>
+            <u>Certification Options:</u>
+          </strong>
+        </p>
+        <p class="cert-prog-analyst" style="margin-left: 40.0px;">
+          <strong>Associate Performance Analyst</strong>
+        </p>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">Become certified with the skills required to monitor applications and analyze performance issues using AppDynamics core Application Performance Management, Application Analytics, Infrastructure Visibility and End User Monitoring technologies.</p>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="75f4e16a-9a70-42d2-ba89-2998efc0761a" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">MORE INFO</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://university.appdynamics.com/certifications/performance-analyst">https://university.appdynamics.com/certifications/performance-analyst</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">
+          <br/>
+        </p>
+        <p class="cert-prog-analyst" style="margin-left: 40.0px;">
+          <strong>Associate Administrator</strong>
+        </p>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">Become certified with the skills required to configure, manage, and optimize AppDynamics technologies, including core AppDynamics Performance Management, Business iQ and End User Monitoring</p>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="6d09d91c-5c51-4743-b71e-468eb8148bf9" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">MORE INFO</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://university.appdynamics.com/certifications/associate-administrator">https://university.appdynamics.com/certifications/associate-administrator</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">
+          <br/>
+        </p>
+        <p class="cert-prog-analyst" style="margin-left: 40.0px;">
+          <strong>Implementation Professional</strong>
+        </p>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">Become certified with the skills required to deploy AppDynamics Controllers on-premises, Agents, EUM Servers and Analytics Servers, as well as use AppDynamics APIs to extend and customize the AppDynamics Platform.</p>
+        <p style="margin-left: 40.0px;text-align: left;">
+          <ac:structured-macro ac:macro-id="35dcce83-791a-412d-993b-306e11e92291" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">MORE INFO</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://university.appdynamics.com/certifications/implementation-professional">https://university.appdynamics.com/certifications/implementation-professional</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p>
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="42371d1d-1854-48f8-a4cb-69f912c8ba2e" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">lavender</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h2>
+      <strong>YouTube and Vimeo Content</strong>
+    </h2>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="8cb8aebd-913b-4733-aff4-d33eac9a1647" ac:name="section" ac:schema-version="1">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="d5c4e4c2-d455-45ef-988e-548aff26f266" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <strong>
+            <u>YouTube</u>
+          </strong>
+        </p>
+        <p class="cert-prog-analyst" style="margin-left: 40.0px;">
+          <strong>Example</strong>
+        </p>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="3c8bdcf1-776d-4b46-abbf-4aa5c2827b54" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">MORE INFO</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://university.appdynamics.com/certifications/performance-analyst">https://university.appdynamics.com/certifications/performance-analyst</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <h4 class="cert-prog-analyst" style="margin-left: 40.0px;">
+          <strong>Example</strong>
+        </h4>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="f106e740-c948-402f-9825-329e26febb1d" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">MORE INFO</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://university.appdynamics.com/certifications/associate-administrator">https://university.appdynamics.com/certifications/associate-administrator</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <h4 class="cert-prog-analyst" style="margin-left: 40.0px;">
+          <strong>Example</strong>
+        </h4>
+        <p style="margin-left: 40.0px;text-align: left;">
+          <ac:structured-macro ac:macro-id="dca796e1-a20f-4763-82ad-5392369e4d0c" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">MORE INFO</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://university.appdynamics.com/certifications/implementation-professional">https://university.appdynamics.com/certifications/implementation-professional</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="a94500bd-063b-450e-a7de-31c09a9c6df3" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <strong>
+            <u>Vimeo:</u>
+          </strong>
+        </p>
+        <p class="cert-prog-analyst" style="margin-left: 40.0px;">
+          <strong>Example</strong>
+        </p>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="94e3ae27-7d78-4491-84d7-8b85002f39ec" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">MORE INFO</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://university.appdynamics.com/certifications/performance-analyst">https://university.appdynamics.com/certifications/performance-analyst</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <h4 class="cert-prog-analyst" style="margin-left: 40.0px;">
+          <strong>Example</strong>
+        </h4>
+        <p class="categorized_certi-title--sm certi-role" style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="b1827da2-0fbd-4072-b8d4-b49825256264" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">MORE INFO</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://university.appdynamics.com/certifications/associate-administrator">https://university.appdynamics.com/certifications/associate-administrator</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <h4 class="cert-prog-analyst" style="margin-left: 40.0px;">
+          <strong>Example</strong>
+        </h4>
+        <p style="margin-left: 40.0px;text-align: left;">
+          <ac:structured-macro ac:macro-id="108a21b6-e2a5-4773-a894-43f4e22ab9b6" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">view</ac:parameter>
+            <ac:parameter ac:name="title">MORE INFO</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://university.appdynamics.com/certifications/implementation-professional">https://university.appdynamics.com/certifications/implementation-professional</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p>
+  <br/>
+</p>
+<p>
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="c9b51487-6573-4461-895f-32b73e7d20c7" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">black</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <p>
+      <span style="color: rgb(0,0,0);">  </span>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="b4b0a393-818c-4c26-b9d5-5680b4195c8e" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h1>
+      <strong>Community, Docs and Guides</strong>
+    </h1>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="70f337b6-7de6-40c1-8425-5936824ff3b4" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">lavender</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h2>
+      <strong>AppD Internal</strong>
+    </h2>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="cfaba6cf-e7ed-439b-b327-b7422ed62c9d" ac:name="section" ac:schema-version="1">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="daba20db-61b7-4bb6-bea1-5ee2c8e062ee" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <h3>
+          <u>
+            <strong>Forms</strong>
+          </u>
+        </h3>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="594f5b80-95a0-43db-849a-291f70f5adbe" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">success</ac:parameter>
+            <ac:parameter ac:name="title">IQOQ</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://docs.appdynamics.com/22.4/en">https://docs.appdynamics.com/22.4/en</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="f6905aa4-a9eb-4ef1-a79b-61acfba5a59a" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <h3>
+          <u>
+            <strong>Runbooks</strong>
+          </u>
+        </h3>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="7d25100a-0bb3-448d-9bd0-db10f125860b" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">info</ac:parameter>
+            <ac:parameter ac:name="title">Implementer Series: Download and Install Java Agents</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://community.appdynamics.com/">https://community.appdynamics.com/</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="caef0c90-0791-410f-8b1d-ad7c9d7b8369" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">lavender</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h2>
+      <strong>AppD Core</strong>
+    </h2>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="af13c3a3-1541-4bfc-8a59-0fb4dccbe728" ac:name="section" ac:schema-version="1">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="e3a18685-af13-48ca-81e8-65502ca712cd" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <h3>
+          <u>
+            <strong>Official Docs</strong>
+          </u>
+        </h3>
+        <h4>
+          <u>
+            <strong>General</strong>
+          </u>
+        </h4>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="9d521555-536c-4b78-b0b0-bf47eefb8e43" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">info</ac:parameter>
+            <ac:parameter ac:name="title">AppDynamics DOCS</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://docs.appdynamics.com/22.4/en">https://docs.appdynamics.com/22.4/en</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <h4>
+          <u>
+            <strong>Agent Installs</strong>
+          </u>
+        </h4>
+        <ac:structured-macro ac:macro-id="eba99603-ab32-487e-923e-d8803946f301" ac:name="expand" ac:schema-version="1">
+          <ac:parameter ac:name="title">Agent Install Guide List...</ac:parameter>
+          <ac:rich-text-body>
+            <p class="auto-cursor-target">
+              <br/>
+            </p>
+            <table>
+              <colgroup>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/java-agent">Java Agent </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/net-agent">.NET Agent </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/node-js-agent">Node.js Agent</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/php-agent">PHP Agent </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/python-agent">Python Agent</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/serverless-apm-for-aws-lambda">Serverless APM for AWS Lambda</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/apache-web-server-agent">Apache Web Server Agent</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/c-c++-sdk">C/C++ SDK</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/go-sdk/use-go-sdk">Go Language Agent</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/application-monitoring/install-app-server-agents/ibm-integration-bus-agent">IBM Integration Bus Agent</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/display/SAP/SAP+Monitoring+Using+AppDynamics">SAP Monitoring Using AppDynamics</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/display/RUBY/Getting+Started+with+Ruby+Agent">Getting Started with Ruby Agent</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/22.2/en/infrastructure-visibility/monitor-cloud-applications">Cloud Application Monitoring</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/21.4/en/infrastructure-visibility/machine-agent">Machine Agent</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/22.2/en/database-visibility/administer-the-database-agent/install-the-database-agent">DB Agent</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/22.2/en/end-user-monitoring">End User Monitoring</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <a href="https://docs.appdynamics.com/22.2/en/application-security-monitoring">Application Security Monitoring</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <p class="auto-cursor-target">
+              <br/>
+            </p>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+        <h4>
+          <u>
+            <strong>Extensions</strong>
+          </u>
+        </h4>
+        <p class="auto-cursor-target" style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="8d41f57e-15a0-4fa1-b228-441613c15c45" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">add</ac:parameter>
+            <ac:parameter ac:name="title">Extension Docs</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://docs.appdynamics.com/22.2/en/infrastructure-visibility/machine-agent/extensions-and-custom-metrics">https://docs.appdynamics.com/22.2/en/infrastructure-visibility/machine-agent/extensions-and-custom-metrics</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <h4>
+          <u>
+            <strong>Integrations</strong>
+          </u>
+        </h4>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="b2eeb576-d797-4ae1-b109-138c1512cffe" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">add</ac:parameter>
+            <ac:parameter ac:name="title">Integration Docs</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://docs.appdynamics.com/21.4/en/extend-appdynamics/integration-modules">https://docs.appdynamics.com/21.4/en/extend-appdynamics/integration-modules</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <h4>
+          <u>
+            <strong>API's</strong>
+          </u>
+        </h4>
+        <p style="margin-left: 40.0px;">
+          <u>
+            <strong>
+              <ac:structured-macro ac:macro-id="a828d263-1944-4d63-b8e5-33a716e82d13" ac:name="auibutton" ac:schema-version="1">
+                <ac:parameter ac:name="icon">add</ac:parameter>
+                <ac:parameter ac:name="title">AppD API's</ac:parameter>
+                <ac:parameter ac:name="type">primary</ac:parameter>
+                <ac:parameter ac:name="url">
+                  <a href="https://docs.appdynamics.com/21.7/en/extend-appdynamics/appdynamics-apis">https://docs.appdynamics.com/21.7/en/extend-appdynamics/appdynamics-apis</a>
+                </ac:parameter>
+                <ac:parameter ac:name="target">true</ac:parameter>
+              </ac:structured-macro>
+            </strong>
+          </u>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="d40bd464-c130-47a1-9fdf-8271303416a5" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <h3>
+          <u>
+            <strong>Community Discussions</strong>
+          </u>
+        </h3>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="a0455a89-c865-44e6-a909-ddc5716b524d" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">info</ac:parameter>
+            <ac:parameter ac:name="title">AppDynamics Community</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://community.appdynamics.com/">https://community.appdynamics.com/</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+        <p>
+          <br/>
+        </p>
+        <p>
+          <u>
+            <strong>Recommended Topics</strong>
+          </u>
+        </p>
+        <p style="margin-left: 40.0px;">
+          <ac:structured-macro ac:macro-id="f450dd97-7c55-46af-8959-c53e6ff9ad3e" ac:name="auibutton" ac:schema-version="1">
+            <ac:parameter ac:name="icon">info</ac:parameter>
+            <ac:parameter ac:name="title">EUM - F5 Auto-Inject js agent</ac:parameter>
+            <ac:parameter ac:name="type">primary</ac:parameter>
+            <ac:parameter ac:name="url">
+              <a href="https://community.appdynamics.com/">https://community.appdynamics.com/</a>
+            </ac:parameter>
+            <ac:parameter ac:name="target">true</ac:parameter>
+          </ac:structured-macro>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p style="text-align: center;">
+  <br/>
+</p>
+<p style="text-align: center;">
+  <br/>
+</p>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="c7f0df9d-2930-473f-858d-b2ec26b2e2dd" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">black</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <p>
+      <span style="color: rgb(0,0,0);">  </span>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="3ee86d1a-9ec6-4bcf-8977-fb8bcdd70cef" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">yellow</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h1>
+      <strong>
+        <span style="color: rgb(25,33,43);">Event Calendar</span>
+      </strong>
+    </h1>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="9dda8427-3ad3-4258-a8d5-2d7d102ea9ce" ac:name="section" ac:schema-version="1">
+  <ac:parameter ac:name="border">true</ac:parameter>
+  <ac:rich-text-body>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="0dd676ac-9ee2-4a9a-83e0-4af8a2040fd3" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">25%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <strong>
+            <u>AppD Core Events:</u>
+          </strong>
+        </p>
+        <p style="margin-left: 40.0px;text-align: left;">
+          <span style="color: rgb(25,33,43);">
+            <ac:structured-macro ac:macro-id="133fb8c1-7e20-4413-b661-449d7be64192" ac:name="auibutton" ac:schema-version="1">
+              <ac:parameter ac:name="icon">workbox</ac:parameter>
+              <ac:parameter ac:name="title">Product and Release Announcements</ac:parameter>
+              <ac:parameter ac:name="type">primary</ac:parameter>
+              <ac:parameter ac:name="url">
+                <a href="https://docs.appdynamics.com/22.3/en/product-and-release-announcements">https://docs.appdynamics.com/22.3/en/product-and-release-announcements</a>
+              </ac:parameter>
+            </ac:structured-macro>
+          </span>
+        </p>
+        <p style="margin-left: 40.0px;text-align: left;">
+          <span style="color: rgb(25,33,43);">
+            <ac:structured-macro ac:macro-id="e3da1ac5-61c1-48d2-9e09-bc0ceb53d45a" ac:name="auibutton" ac:schema-version="1">
+              <ac:parameter ac:name="icon">configure</ac:parameter>
+              <ac:parameter ac:name="title">Agent Enhancements</ac:parameter>
+              <ac:parameter ac:name="type">primary</ac:parameter>
+              <ac:parameter ac:name="url">
+                <a href="https://docs.appdynamics.com/22.3/en/product-and-release-announcements">https://docs.appdynamics.com/22.3/en/product-and-release-announcements</a>
+              </ac:parameter>
+            </ac:structured-macro>
+            <ac:structured-macro ac:macro-id="44c7a39f-1557-4c17-809b-a3bc4d082bb1" ac:name="auibutton" ac:schema-version="1">
+              <ac:parameter ac:name="icon">configure</ac:parameter>
+              <ac:parameter ac:name="title">Controller Enhancements</ac:parameter>
+              <ac:parameter ac:name="type">primary</ac:parameter>
+              <ac:parameter ac:name="url">
+                <a href="https://docs.appdynamics.com/22.3/en/product-and-release-announcements">https://docs.appdynamics.com/22.3/en/product-and-release-announcements</a>
+              </ac:parameter>
+            </ac:structured-macro>
+          </span>
+        </p>
+        <p style="margin-left: 40.0px;text-align: left;">
+          <span style="color: rgb(25,33,43);">
+            <ac:structured-macro ac:macro-id="67f814ca-7641-44cb-80ca-cffb01326dbb" ac:name="auibutton" ac:schema-version="1">
+              <ac:parameter ac:name="icon">info</ac:parameter>
+              <ac:parameter ac:name="title">AppD (Official) Events</ac:parameter>
+              <ac:parameter ac:name="type">primary</ac:parameter>
+              <ac:parameter ac:name="url">
+                <a href="https://www.appdynamics.com/events">https://www.appdynamics.com/events</a>
+              </ac:parameter>
+            </ac:structured-macro>
+          </span>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+    <ac:structured-macro ac:macro-id="5c2608c6-e076-498e-8885-e4bdaacafdb1" ac:name="column" ac:schema-version="1">
+      <ac:parameter ac:name="width">75%</ac:parameter>
+      <ac:rich-text-body>
+        <p>
+          <strong>
+            <u>Internal Calendar:</u>
+          </strong>
+        </p>
+        <p>
+          <span style="color: rgb(25,33,43);">
+            <ac:structured-macro ac:macro-id="6ba084c8-6b09-492e-8060-a77f31121510" ac:name="calendar" ac:schema-version="1">
+              <ac:parameter ac:name="id">9b22c319-11b2-455a-ba25-b687015d1b86</ac:parameter>
+            </ac:structured-macro>
+          </span>
+        </p>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+    <p class="auto-cursor-target">
+      <br/>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p style="margin-left: 40.0px;text-align: center;">
+  <br/>
+</p>
+<p style="margin-left: 40.0px;">
+  <br/>
+</p>
+<p style="text-align: center;">
+  <br/>
+</p>
+<p style="text-align: center;">
+  <span style="color: rgb(25,33,43);">
+    <br/>
+  </span>
+</p>
+<p>
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="0835a5ed-0066-40c8-b18e-8fd7842eb607" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">black</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <p>
+      <span style="color: rgb(0,0,0);">  </span>
+    </p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p class="auto-cursor-target">
+  <br/>
+</p>
+<ac:structured-macro ac:macro-id="100f2768-1736-47e1-b27c-d9f10c514cd3" ac:name="bgcolor" ac:schema-version="1">
+  <ac:parameter ac:name="color">orange</ac:parameter>
+  <ac:parameter ac:name="atlassian-macro-output-type">INLINE</ac:parameter>
+  <ac:rich-text-body>
+    <h1>
+      <strong>Glossary</strong>
+    </h1>
+  </ac:rich-text-body>
+</ac:structured-macro>
+<p>
+  <br/>
+</p>
+<h2 style="margin-left: 40.0px;">
+  <strong>Internal and Most-Used Terms:</strong>
+</h2>
+<ul>
+  <li style="list-style-type: none;">
+    <ul>
+      <li>
+        <strong>Onboarding/Intake </strong>= Initial instrumentation of AppDynamics solutions across an application, infrastructure, websites, databases, etc...</li>
+      <li>Break/Fix = Engagement of an internal AppD Admin to figure out an issue in an existing instrumentation, and is past its initial onboarding period.</li>
+      <li>Example 3</li>
+    </ul>
+  </li>
+</ul>
+<p style="margin-left: 40.0px;">
+  <br/>
+</p>
+<h2 style="margin-left: 40.0px;">
+  <strong>AppDynamics Terms:</strong>
+</h2>
+<p style="margin-left: 40.0px;">Official AppD glossary:<span> </span>
+  <a class="external-link" href="https://docs.appdynamics.com/21.5/en/glossary">https://docs.appdynamics.com/21.5/en/glossary</a>
+</p>
+<ul>
+  <li style="list-style-type: none;">
+    <ul>
+      <li>Familiarize yourself with a list of common terms you may come across as an AppDynamics user. </li>
+    </ul>
+  </li>
+</ul>
+<p>
+  <br/>
+</p>
+<p>
+  <br/>
+</p>
+<p>
+  <br/>
+</p>
