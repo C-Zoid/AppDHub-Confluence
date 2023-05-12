@@ -1,4 +1,3 @@
-******==> UNDER CURRENT TESTING <==******
 # AppDHub-Confluence
 This repository is meant to give championed customers a confluence template that they can utilized for a landing page for their own internal user-base. It acts as an internal hub to have All AppD, All in One Place.
 
