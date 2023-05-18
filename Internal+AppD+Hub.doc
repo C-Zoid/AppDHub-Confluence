@@ -1,0 +1,1470 @@
+Date: Thu, 18 May 2023 18:28:40 +0000 (UTC)
+Message-ID: <451586812.161648.1684434520422@confluence-1.confluence-svc.confluence.svc.cluster.local>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_161647_2146561156.1684434520422"
+
+------=_Part_161647_2146561156.1684434520422
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Internal AppD Hub</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Internal AppD Hub</h1>
+    <div class=3D"Section1">
+        <p class=3D"auto-cursor-target"><span class=3D"confluence-embedded-=
+file-wrapper image-center-wrapper confluence-embedded-manual-size"><img cla=
+ss=3D"confluence-embedded-image confluence-external-resource image-center" =
+draggable=3D"false" height=3D"81" width=3D"600" src=3D"https://www.cisco.co=
+m/c/dam/m/en_us/signaturetool/appdynamics/AppD_Email_Banner2_Jun2020.png" d=
+ata-image-src=3D"https://www.cisco.com/c/dam/m/en_us/signaturetool/appdynam=
+ics/AppD_Email_Banner2_Jun2020.png"></span></p>
+<div class=3D"" style=3D"background-color: black;">
+<span style=3D"color: rgb(0,0,0);">&nbsp;&nbsp;</span>
+</div>
+<div class=3D"" style=3D"background-color: Gray;">
+<h1 id=3D"InternalAppDHub-QuickNavigation&amp;Highlights"><span style=3D"co=
+lor: rgb(255,255,255);">Quick Navigation &amp; Highlights</span></h1>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<div class=3D"sectionMacroRow">
+<div class=3D"columnMacro" style=3D"width:50%;min-width:50%;max-width:50%;"=
+>
+<p><u> <strong>Main Page Table of Contents:</strong> </u></p>
+<p><style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1684434520348 {padding: 0px;}
+div.rbtoc1684434520348 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1684434520348 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style></p>
+<div class=3D"toc-macro rbtoc1684434520348">=20
+<ul class=3D"toc-indentation">=20
+<li><span class=3D"TOCOutline">1</span> <a href=3D"#InternalAppDHub-QuickNa=
+vigation&amp;Highlights">Quick Navigation &amp; Highlights</a></li>=20
+<li><span class=3D"TOCOutline">2</span> <a href=3D"#InternalAppDHub-Introdu=
+ction">Introduction</a></li>=20
+<li><span class=3D"TOCOutline">3</span> <a href=3D"#InternalAppDHub-Links,R=
+equestsandContactInfo">Links, Requests and Contact Info</a></li>=20
+<li><span class=3D"TOCOutline">4</span> <a href=3D"#InternalAppDHub-Enablem=
+entandEducation">Enablement and Education</a>=20
+<ul class=3D"toc-indentation">=20
+<li><span class=3D"TOCOutline">4.1</span> <a href=3D"#InternalAppDHub-RoleB=
+asedTracks(CombinedContent)">Role Based Tracks (Combined Content)</a></li>=
+=20
+<li><span class=3D"TOCOutline">4.2</span> <a href=3D"#InternalAppDHub-Custo=
+merSuccessContent">Customer Success Content</a></li>=20
+<li><span class=3D"TOCOutline">4.3</span> <a href=3D"#InternalAppDHub-AppDU=
+niversityContent">AppD University Content</a></li>=20
+<li><span class=3D"TOCOutline">4.4</span> <a href=3D"#InternalAppDHub-AppDC=
+ommunity,YouTubeandVimeoContent">AppD Community, YouTube and Vimeo Content<=
+/a></li>=20
+</ul> </li>=20
+<li><span class=3D"TOCOutline">5</span> <a href=3D"#InternalAppDHub-Documen=
+tationandRepos">Documentation and Repos</a>=20
+<ul class=3D"toc-indentation">=20
+<li><span class=3D"TOCOutline">5.1</span> <a href=3D"#InternalAppDHub-AppDI=
+nternal">AppD Internal</a>=20
+<ul class=3D"toc-indentation">=20
+<li><span class=3D"TOCOutline">5.1.1</span> <a href=3D"#InternalAppDHub-For=
+ms.Compliance,ExpectationRACI,andSLA's">Forms. Compliance, Expectation RACI=
+, and SLA's</a></li>=20
+<li><span class=3D"TOCOutline">5.1.2</span> <a href=3D"#InternalAppDHub-Doc=
+umentationandRecordings">Documentation and Recordings</a></li>=20
+<li><span class=3D"TOCOutline">5.1.3</span> <a href=3D"#InternalAppDHub-Rep=
+os">Repos</a></li>=20
+</ul> </li>=20
+<li><span class=3D"TOCOutline">5.2</span> <a href=3D"#InternalAppDHub-AppDC=
+ore">AppD Core</a>=20
+<ul class=3D"toc-indentation">=20
+<li><span class=3D"TOCOutline">5.2.1</span> <a href=3D"#InternalAppDHub-Off=
+icialDocs">Official Docs</a></li>=20
+<li><span class=3D"TOCOutline">5.2.2</span> <a href=3D"#InternalAppDHub-Rep=
+os.1">Repos</a></li>=20
+</ul> </li>=20
+</ul> </li>=20
+<li><span class=3D"TOCOutline">6</span> <a href=3D"#InternalAppDHub-EventCa=
+lendar">Event Calendar</a></li>=20
+<li><span class=3D"TOCOutline">7</span> <a href=3D"#InternalAppDHub-Glossar=
+y">Glossary</a>=20
+<ul class=3D"toc-indentation">=20
+<li><span class=3D"TOCOutline">7.1</span> <a href=3D"#InternalAppDHub-Inter=
+nalandMost-UsedTerms:">Internal and Most-Used Terms:</a></li>=20
+<li><span class=3D"TOCOutline">7.2</span> <a href=3D"#InternalAppDHub-AppDy=
+namicsTerms:">AppDynamics Terms:</a></li>=20
+</ul> </li>=20
+</ul>=20
+</div>
+<p></p>
+</div>
+<div class=3D"columnMacro" style=3D"width:50%;min-width:50%;max-width:50%;"=
+>
+<p class=3D"auto-cursor-target"><u> <strong>Internal AppD News and Current =
+Event High Lights</strong> </u></p>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable">
+<colgroup>=20
+<col style=3D"width: 100.0%;">=20
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">Aug 4th - Final App Migrated to SaaS Controller =
+with Anomaly Detection!</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Aug 20th - AppD for New Hires - Foundations Acce=
+lerator</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Aug 28th - Full Deployment Automation Via Ansibl=
+e Available</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Sept 13th - CS Engineer-Lead Lunch and Learn ove=
+r Dashboarding Tips</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Sept 22nd - Production Controller Outage (AWS Pl=
+anned Mait.)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<div class=3D"" style=3D"background-color: black;">
+<span style=3D"color: rgb(0,0,0);">&nbsp;&nbsp;</span>
+</div>
+<div class=3D"" style=3D"background-color: violet;">
+<h1 id=3D"InternalAppDHub-Introduction"><strong>Introduction</strong></h1>
+</div>The Purpose of the Internal AppD Hub is to enable the user-base to be=
+ confident and successful with the tool, AppDynamics. It can be used to nav=
+igate the self-service nature of our onboarding, to using the tool effectiv=
+ely, while giving options to get help if/when needed.
+<p></p>
+<p><strong>What is AppDynamics (AppD)? </strong>AppD is a collection of pow=
+erful monitoring and observability solutions, that teams can take advantage=
+ of to know what is going on in their apps in a more proactive way, as oppo=
+sed to a reactive one. While still being a powerful pane of glass to see wh=
+at is going on when reaction is forced, due to some outside attack or outag=
+e, etc..&nbsp;</p>
+<p>Beyond the product, AppDynamics is a partner in helping users be success=
+ful with the tool by offering a lot of learning opportunities. There's a wi=
+de range of content offered, from self-service and on-demand, to engineer/i=
+nstructor-lead workshops, presentation of accelerators, or AppD University =
+deep-dive courses, which prepares people for official certifications.</p>
+<p style=3D"text-align: center;"><br></p>
+<p style=3D"text-align: center;"><iframe class=3D"youtube-player" type=3D"t=
+ext/html" style=3D"width: 400px; height: 300px" src=3D"//www.youtube.com/em=
+bed/sFuFotJD1vM?wmode=3Dopaque" frameborder=3D"0" webkitallowfullscreen moz=
+allowfullscreen allowfullscreen> </iframe> <iframe class=3D"youtube-player"=
+ type=3D"text/html" style=3D"width: 400px; height: 300px" src=3D"//www.yout=
+ube.com/embed/vFy1_uBgktw?wmode=3Dopaque" frameborder=3D"0" webkitallowfull=
+screen mozallowfullscreen allowfullscreen> </iframe> </p>
+<p style=3D"text-align: left;"><br></p>
+<p><br></p>
+<p><br></p>
+<div class=3D"" style=3D"background-color: black;">
+<span style=3D"color: rgb(0,0,0);">&nbsp;&nbsp;</span>
+</div>
+<div class=3D"" style=3D"background-color: #C0C0FF;">
+<h1 id=3D"InternalAppDHub-Links,RequestsandContactInfo"><strong>Links, Requ=
+ests and Contact Info</strong></h1>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<div class=3D"sectionMacroRow">
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<div class=3D"sectionMacroRow">
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p><u> <strong>Controller Links:</strong> </u></p><a href=3D"/pages/createp=
+age.action?spaceKey=3D~cmbonann@appdynamics.com&amp;title=3Dtest&amp;linkCr=
+eation=3Dtrue&amp;fromPageId=3D199264561" target=3D"_blank" class=3D"conten=
+tf-button aui-button aui-button-primary" style=3D"text-decoration: none"> <=
+span class=3D"aui-icon aui-icon-small aui-iconfont-appswitcher"> appswitche=
+r </span> Production SaaS Controller </a>=20
+<p><u> <strong> </strong></u></p>
+<p><a href=3D"/pages/createpage.action?spaceKey=3D~cmbonann@appdynamics.com=
+&amp;title=3Dtest&amp;linkCreation=3Dtrue&amp;fromPageId=3D199264561" targe=
+t=3D"_blank" class=3D"contentf-button aui-button aui-button-primary" style=
+=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-icon=
+font-appswitcher"> appswitcher </span> Non-Prod SaaS Controller </a> </p>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p><u><strong>Onboarding:</strong> </u></p>
+<p><em> <strong>&lt;&lt;CLIENT'S INTAKE FORM/LINK OR INSTRUCTIONS.&gt;&gt;<=
+/strong></em></p>
+<p><br></p>
+<p><u><strong>Related Requests (access, break/fix, workshops):</strong> </u=
+></p>
+<p><em> <strong>&lt;&lt;CLIENT'S OTHER REQUEST TYPES AND HYPERLINKS&gt;&gt;=
+</strong> </em></p>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p><u> <strong>Contact Info:</strong> </u></p>
+<p><strong>AppD Internal (Admin Teams)</strong></p><span id=3D"admin" title=
+=3D"admin"><a href=3D"https://help.appdynamics.com/hc/en-us/requests/" targ=
+et=3D"_blank" class=3D"contentf-button aui-button aui-button-primary" style=
+=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-icon=
+font-help"> help </span> Contact AppD Admins </a> </span>=20
+<p><u> <strong> </strong></u></p>
+<div class=3D"adaptavist-tooltip" direction=3D"W" title=3D"Use this link to=
+ contact your Internal AppD Admins." targetid=3D"admin"></div><u><strong> <=
+/strong> </u>
+<p></p>
+<p><br></p>
+<p><strong>AppD Core (Partnered Cisco/AppD Teams)</strong></p><span id=3D"s=
+upport" title=3D"test"><a href=3D"https://help.appdynamics.com/hc/en-us/req=
+uests/" target=3D"_blank" class=3D"contentf-button aui-button aui-button-pr=
+imary" style=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-sm=
+all aui-iconfont-help"> help </span> Contact AppD Support </a> </span>=20
+<p> </p>
+<div class=3D"adaptavist-tooltip" direction=3D"NW" title=3D"Collect AppD ag=
+ent logs and send them to the vendor's support team for assistance with wha=
+t the native AppD Admins cannot resolve, such as problems with the product/=
+agents/controller, etc... (NOTE: This requires an account with appdynamics.=
+com which may require approval from your internal AppD admin group.)" targe=
+tid=3D"support"></div>=20
+<p></p><span id=3D"cs" title=3D"cs"><p><a href=3D"https://help.appdynamics.=
+com/hc/en-us/requests/" target=3D"_blank" class=3D"contentf-button aui-butt=
+on aui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-=
+icon aui-icon-small aui-iconfont-email"> email </span> Contact AppD Custome=
+r Success </a> </p></span>=20
+<p class=3D"auto-cursor-target"> </p>
+<div class=3D"adaptavist-tooltip" direction=3D"NW" title=3D"Customer Succes=
+s is a team of engineers who help us be successful with the product we alre=
+ady purchased. They engage with us free-of-cost to help us implement best p=
+ractices and gain confidence as users of the tool through a blend of On Dem=
+and/Recorded Content, as well as Engineer Presented Accelerators and Demos =
+over a variety of topics ranging from Basic to Advanced." targetid=3D"cs"><=
+/div>=20
+<p></p><span id=3D"edu" title=3D"edu"><p><a href=3D"https://help.appdynamic=
+s.com/hc/en-us/requests/" target=3D"_blank" class=3D"contentf-button aui-bu=
+tton aui-button-primary" style=3D"text-decoration: none"> <span class=3D"au=
+i-icon aui-icon-small aui-iconfont-info"> info </span> Contact AppD Educati=
+on </a> </p></span>=20
+<p> </p>
+<div class=3D"adaptavist-tooltip" direction=3D"NW" title=3D"The Education t=
+eam engages with you for AppD University content or understanding your educ=
+ation status through your employer or individual purchases. They are also t=
+he go-to for certification and offer a wide range of self-paced, on demand =
+and instructor lead content." targetid=3D"edu"></div>=20
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class=3D"" style=3D"background-color: black;">
+<span style=3D"color: rgb(0,0,0);">&nbsp;&nbsp;</span>
+</div>
+<div class=3D"" style=3D"background-color: #C0FFFF;">
+<h1 id=3D"InternalAppDHub-EnablementandEducation"><strong>Enablement and Ed=
+ucation</strong></h1>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<p></p>
+<div class=3D"sectionMacroRow">
+<div class=3D"" style=3D"background-color: lavender;">
+<h2 id=3D"InternalAppDHub-RoleBasedTracks(CombinedContent)"><strong>Role Ba=
+sed Tracks (Combined Content)</strong></h2>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<div class=3D"sectionMacroRow">
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p><strong> <u>AppD Admins</u> </strong></p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/x/wK-gCw" target=3D"_blank" class=3D"contentf-button aui-button a=
+ui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon=
+ aui-icon-small aui-iconfont-view"> view </span> AppdAdminTrack </a> </p>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p><strong> <u>Application Teams</u> </strong></p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/x/F47gCw" target=3D"_blank" class=3D"contentf-button aui-button a=
+ui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon=
+ aui-icon-small aui-iconfont-view"> view </span> AppOwner/MgmtTrack </a> </=
+p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/x/Go7gCw" target=3D"_blank" class=3D"contentf-button aui-button a=
+ui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon=
+ aui-icon-small aui-iconfont-view"> view </span> DeveloperTrack </a> </p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/x/Ho7gCw" target=3D"_blank" class=3D"contentf-button aui-button a=
+ui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon=
+ aui-icon-small aui-iconfont-view"> view </span> DevOpsTrack </a> </p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/x/H47gCw" target=3D"_blank" class=3D"contentf-button aui-button a=
+ui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon=
+ aui-icon-small aui-iconfont-view"> view </span> Monitoring/SupportTrack </=
+a> </p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/x/HI7gCw" target=3D"_blank" class=3D"contentf-button aui-button a=
+ui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon=
+ aui-icon-small aui-iconfont-view"> view </span> PerformanceEng/TesterTrack=
+ </a> </p>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p><strong> <u>System/Platform, Middleware, DB, Network or Security Teams</=
+u> </strong></p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/display/~cmbonann@appdynamics.com/DB+Admin+Track" target=3D"_blan=
+k" class=3D"contentf-button aui-button aui-button-primary" style=3D"text-de=
+coration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-view">=
+ view </span> DB_AdminTrack </a> </p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/display/~cmbonann@appdynamics.com/Network+and+Security+Track" tar=
+get=3D"_blank" class=3D"contentf-button aui-button aui-button-primary" styl=
+e=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-ico=
+nfont-view"> view </span> Network/SecurityTrack </a> </p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/display/~cmbonann@appdynamics.com/Middleware+or+Implementer+Track=
+" target=3D"_blank" class=3D"contentf-button aui-button aui-button-primary"=
+ style=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small au=
+i-iconfont-view"> view </span> Middleware/Implementer Track </a> </p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/display/~cmbonann@appdynamics.com/Server+and+Platform+Admin+Track=
+s" target=3D"_blank" class=3D"contentf-button aui-button aui-button-primary=
+" style=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small a=
+ui-iconfont-view"> view </span> Server/PlatformAdminTrack </a> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class=3D"" style=3D"background-color: lavender;">
+<h2 id=3D"InternalAppDHub-CustomerSuccessContent"><strong>Customer Success =
+Content</strong></h2>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<div class=3D"sectionMacroRow">
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p><strong> <u>On-Demand Content</u> </strong></p>
+<p><span style=3D"color: rgb(0,0,0);"> <strong> <em>Bite-Sized Videos </em>=
+ </strong>=3D</span> These Short and Sweet videos are presented by a CS Eng=
+ineer, getting right to the point about a topic in a brief amount of time. =
+Click the link below to expand the full list of appetizing on-demand videos=
+!</p>
+<div id=3D"expander-1862904254" class=3D"expand-container">
+<div id=3D"expander-control-1862904254" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">Bite-Sized Video List</span>
+</div>
+<div id=3D"expander-content-1862904254" class=3D"expand-content">
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>=20
+<col>=20
+<col>=20
+<col>=20
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">Video Topic</td>
+<td class=3D"confluenceTd">Category</td>
+<td class=3D"confluenceTd">HighSpot Link</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Manage Business Transactions</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05a0c1cb4b8659b4e4c84" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Business Transactions and Understanding A=
+pplication Performance</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05a3d07251865dfecff6a" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to View and Output All Other Traffic BT's</t=
+d>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e2f228f60abf6cc783e670" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Add Context With Data Collectors</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05a85554584656207504f" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Use Dash Studio</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05b74919b1d6562cee6c0" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Use the Metric Browser</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e2f2e2c224266e44b35153" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Capture Code and Business Metrics with In=
+formation Points</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e2f066e9b0096b5098c68f" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Troubleshoot Slow Performance and Errors<=
+/td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05c98fb23db7a0e99596f" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Automated Transaction Diagnostics</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e2f15f3f87aa6a7990c51e" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How To Configure Health Rules</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05baa919b1d65a4cea168" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Send Alerts with Policies &amp; Actions</=
+td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05b34fb23db7a529904df" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Capture Custom Data with Browser RUM</td>
+<td class=3D"confluenceTd">BRUM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e2f1374bc22d6a3d72dfd8" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How To Instrument Browser Real User Monitoring&n=
+bsp;</td>
+<td class=3D"confluenceTd">BRUM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e2f116f60abf6dda82c83e" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Monitor the Health of a Database Agent</t=
+d>
+<td class=3D"confluenceTd">DB Mon</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05cc965fcc9684352b202" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Instrument an Android Application</td>
+<td class=3D"confluenceTd">MRUM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05b5455458465ec06b612" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Deploy the Linux-Based Private Synthetics=
+ Agent</td>
+<td class=3D"confluenceTd">Synthetics</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05b0407251865dfed0760" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How to Configure Service Endpoints</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05acd07251866abec2d9f" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How To Manually Upgrade Java Agent - Linux</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05c6855458466300673bb" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How To Manually Upgrade Java Agent - Windows</td=
+>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05c18fb23db7a9698c0bf" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How To Install Java Agent - EKS</td>
+<td class=3D"confluenceTd">APM</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05bcafb23db7a9698bf99" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How To Install Maven to Configure AppDynamics Ex=
+tension</td>
+<td class=3D"confluenceTd">EXT</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05beefb23db7a0e9953a3" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How To Build an AppDynamics Extension</td>
+<td class=3D"confluenceTd">EXT</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e2f0c1d151026c37fbde79" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How To Configure an AppDynamics Extension</td>
+<td class=3D"confluenceTd">EXT</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e2f0f7e9b0096b94986d14" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">How To K8 Cluster Agent Overview</td>
+<td class=3D"confluenceTd">K8</td>
+<td class=3D"confluenceTd"><a href=3D"https://view-su2.highspot.com/viewer/=
+62e05c44072518659bed75a8" class=3D"external-link" rel=3D"nofollow">link</a>=
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<p><br></p>
+<p><strong> <em> <strong> <em>CS Talks (Snacks) Webcast Video Recordings</e=
+m> </strong> </em> </strong> =3D These videos are presented by a CS Enginee=
+r to extend on topics where it's too much to chew in a bite-sized video. Cl=
+ick the button below to expand the list of our on-demand CS-Talk Webcasts!<=
+/p>
+<p><a href=3D"https://event.on24.com/eventRegistration/EventLobbyServletV2?=
+target=3Dreg20V2.jsp&amp;eventid=3D3616860&amp;sessionid=3D1&amp;key=3DCC07=
+41BF827098190C539BEE20CFD64F&amp;groupId=3D3509211&amp;sourcepage=3Dregiste=
+r" target=3D"_blank" class=3D"contentf-button aui-button aui-button-primary=
+" style=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small a=
+ui-iconfont-view"> view </span> CS-Talks: Webcast Recordings </a> </p>
+<p style=3D"margin-left: 40.0px;"><br></p>
+<p class=3D"auto-cursor-target"><span style=3D"color: rgb(0,0,0);"> <em> <s=
+trong>Accelerator (Dinner Plate) Webcast Video Recordings </strong> </em>=
+=3D These Full-Portioned</span> videos are presented by a CS Engineer to ex=
+tend on topics where it takes over an hour to review, and still it could be=
+ gone into deeper. Click the button below to expand the list of our on-dema=
+nd Accelerator Webcasts!</p>
+<p><a href=3D"https://event.on24.com/eventRegistration/EventLobbyServletV2?=
+target=3Dreg20V2.jsp&amp;eventid=3D3616860&amp;sessionid=3D1&amp;key=3DCC07=
+41BF827098190C539BEE20CFD64F&amp;groupId=3D3509211&amp;sourcepage=3Dregiste=
+r" target=3D"_blank" class=3D"contentf-button aui-button aui-button-primary=
+" style=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small a=
+ui-iconfont-view"> view </span> Accelerators: Webcast Recordings </a> </p>
+<p style=3D"margin-left: 40.0px;"><br></p>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p><strong> <u>Past Session Recordings:</u> </strong></p>
+<p style=3D"margin-left: 40.0px;"><strong>Customer Success Enablement Webex=
+ Recordings</strong></p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"" target=3D"_blank" class=3D"c=
+ontentf-button aui-button aui-button-primary" style=3D"text-decoration: non=
+e"> <span class=3D"aui-icon aui-icon-small aui-iconfont-view"> view </span>=
+ Foundations </a> </p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"" target=3D"_blank" class=3D"c=
+ontentf-button aui-button aui-button-primary" style=3D"text-decoration: non=
+e"> <span class=3D"aui-icon aui-icon-small aui-iconfont-view"> view </span>=
+ TroubleShooting </a> </p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"" target=3D"_blank" class=3D"c=
+ontentf-button aui-button aui-button-primary" style=3D"text-decoration: non=
+e"> <span class=3D"aui-icon aui-icon-small aui-iconfont-view"> view </span>=
+ HealthRules and Alerts </a> </p>
+<p style=3D"margin-left: 40.0px;"><br></p>
+<p style=3D"margin-left: 40.0px;"><strong>Customer Success Enablement MS-Te=
+ams Recordings</strong></p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"" target=3D"_blank" class=3D"c=
+ontentf-button aui-button aui-button-primary" style=3D"text-decoration: non=
+e"> <span class=3D"aui-icon aui-icon-small aui-iconfont-view"> view </span>=
+ Developer </a> </p>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p><strong> <u>New Accelerator/Demo/Working Session Sign-Ups:&nbsp;</u> </s=
+trong></p>
+<p style=3D"margin-left: 40.0px;"><em> <strong>Custom or Unlisted Topics</s=
+trong> </em> - Coordinate with the Customer Success Manager to request a cu=
+stom Accelerator Presentation/Demo/Discussion which are not listed in the a=
+bove webcasts, but you feel is important for your team to learn. They'll sc=
+hedule a private Presentations or hybrid Working Sessions with your CS Engi=
+neer and your local AppD Admins.</p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"" target=3D"_blank" class=3D"c=
+ontentf-button aui-button aui-button-primary" style=3D"text-decoration: non=
+e"> <span class=3D"aui-icon aui-icon-small aui-iconfont-email"> email </spa=
+n> EmailYourCSM </a> </p>
+</div>
+</div>
+</div>
+</div>
+<p style=3D"text-align: center;"><br></p>
+<div class=3D"" style=3D"background-color: lavender;">
+<h2 id=3D"InternalAppDHub-AppDUniversityContent"><strong>AppD University Co=
+ntent</strong></h2>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<div class=3D"sectionMacroRow">
+<div class=3D"columnMacro" style=3D"width:50%;min-width:50%;max-width:50%;"=
+>
+<p><strong> <u>Available Courses and Subscriptions:&nbsp;</u> </strong></p>
+<p style=3D"margin-left: 40.0px;"><strong>On-Demand AppD University Courses=
+</strong></p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/display/~cmbonann@appdynamics.com/AppD+University+Content#AppDUni=
+versityContent-edu-od" target=3D"_blank" class=3D"contentf-button aui-butto=
+n aui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-i=
+con aui-icon-small aui-iconfont-workbox"> workbox </span> On Demand and Sel=
+f-Paced </a> </p>
+<p style=3D"margin-left: 40.0px;"><br></p>
+<p style=3D"margin-left: 40.0px;"><strong>Instructor-Lead AppD University C=
+ourses</strong></p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/display/~cmbonann@appdynamics.com/AppD+University+Content#AppDUni=
+versityContent-edu-il" target=3D"_blank" class=3D"contentf-button aui-butto=
+n aui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-i=
+con aui-icon-small aui-iconfont-user"> user </span> Instructor Lead Courses=
+ </a> </p>
+<p style=3D"margin-left: 40.0px;"><br></p>
+<p style=3D"margin-left: 40.0px;"><strong>Subscriptions for AppD University=
+</strong></p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"https://confluence.corp.appdyn=
+amics.com/display/~cmbonann@appdynamics.com/AppD+University+Content#AppDUni=
+versityContent-edu-subs" target=3D"_blank" class=3D"contentf-button aui-but=
+ton aui-button-primary" style=3D"text-decoration: none"> <span class=3D"aui=
+-icon aui-icon-small aui-iconfont-info"> info </span> Subscriptions </a> </=
+p>
+<p style=3D"margin-left: 40.0px;"><br></p>
+<p><br></p>
+</div>
+<div class=3D"columnMacro" style=3D"width:50%;min-width:50%;max-width:50%;"=
+>
+<p><strong> <u>Certification Options:</u> </strong></p>
+<p class=3D"cert-prog-analyst" style=3D"margin-left: 40.0px;"><strong>Assoc=
+iate Performance Analyst</strong></p>
+<p class=3D"categorized_certi-title--sm certi-role" style=3D"margin-left: 4=
+0.0px;">Become certified with the skills required to monitor applications a=
+nd analyze performance issues using AppDynamics core Application Performanc=
+e Management, Application Analytics, Infrastructure Visibility and End User=
+ Monitoring technologies.</p>
+<p class=3D"categorized_certi-title--sm certi-role" style=3D"margin-left: 4=
+0.0px;"><a href=3D"https://university.appdynamics.com/certifications/perfor=
+mance-analyst" target=3D"_blank" class=3D"contentf-button aui-button aui-bu=
+tton-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon aui-=
+icon-small aui-iconfont-view"> view </span> MORE INFO </a> </p>
+<p class=3D"categorized_certi-title--sm certi-role" style=3D"margin-left: 4=
+0.0px;"><br></p>
+<p class=3D"cert-prog-analyst" style=3D"margin-left: 40.0px;"><strong>Assoc=
+iate Administrator</strong></p>
+<p class=3D"categorized_certi-title--sm certi-role" style=3D"margin-left: 4=
+0.0px;">Become certified with the skills required to configure, manage, and=
+ optimize AppDynamics technologies, including core AppDynamics Performance =
+Management, Business iQ and End User Monitoring</p>
+<p class=3D"categorized_certi-title--sm certi-role" style=3D"margin-left: 4=
+0.0px;"><a href=3D"https://university.appdynamics.com/certifications/associ=
+ate-administrator" target=3D"_blank" class=3D"contentf-button aui-button au=
+i-button-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon =
+aui-icon-small aui-iconfont-view"> view </span> MORE INFO </a> </p>
+<p class=3D"categorized_certi-title--sm certi-role" style=3D"margin-left: 4=
+0.0px;"><br></p>
+<p class=3D"cert-prog-analyst" style=3D"margin-left: 40.0px;"><strong>Imple=
+mentation Professional</strong></p>
+<p class=3D"categorized_certi-title--sm certi-role" style=3D"margin-left: 4=
+0.0px;">Become certified with the skills required to deploy AppDynamics Con=
+trollers on-premises, Agents, EUM Servers and Analytics Servers, as well as=
+ use AppDynamics APIs to extend and customize the AppDynamics Platform.</p>
+<p style=3D"margin-left: 40.0px;text-align: left;"><a href=3D"https://unive=
+rsity.appdynamics.com/certifications/implementation-professional" target=3D=
+"_blank" class=3D"contentf-button aui-button aui-button-primary" style=3D"t=
+ext-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-=
+view"> view </span> MORE INFO </a> </p>
+</div>
+</div>
+</div>
+</div>
+<p><br></p>
+<div class=3D"" style=3D"background-color: lavender;">
+<h2 id=3D"InternalAppDHub-AppDCommunity,YouTubeandVimeoContent"><strong>App=
+D Community, YouTube and Vimeo Content</strong></h2>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<div class=3D"sectionMacroRow">
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p style=3D"text-align: left;"><u> <strong>Community Articles and Discussio=
+ns</strong> </u></p>
+<p><a href=3D"https://community.appdynamics.com/" target=3D"_blank" class=
+=3D"contentf-button aui-button aui-button-primary" style=3D"text-decoration=
+: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info"> info </=
+span> AppDynamics Community </a> </p>
+<p style=3D"margin-left: 40.0px;"><br></p>
+<div id=3D"expander-1686051788" class=3D"expand-container">
+<div id=3D"expander-control-1686051788" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">Click here for Recommended Ar=
+ticles</span>
+</div>
+<div id=3D"expander-content-1686051788" class=3D"expand-content">
+<a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/Technical-Se=
+ssion-Monitoring-Kubernetes-in-the-Cloud-on-EKS-AKS/ta-p/33154" target=3D"_=
+blank" class=3D"contentf-button aui-button aui-button-primary" style=3D"tex=
+t-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-in=
+fo"> info </span> Monitoring cloud K8 on EKS, AKS, and GKE </a>=20
+<p><a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/For-EUM-w=
+hat-naming-conventions-are-recommended/ta-p/45987" target=3D"_blank" class=
+=3D"contentf-button aui-button aui-button-primary" style=3D"text-decoration=
+: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info"> info </=
+span> EUM - Naming Convention </a> </p>
+<p><a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/For-Healt=
+h-Rules-what-naming-conventions-are-recommended/ta-p/45989" target=3D"_blan=
+k" class=3D"contentf-button aui-button aui-button-primary" style=3D"text-de=
+coration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info">=
+ info </span> Health Rules - Naming Convention </a> </p>
+<p><a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/For-AppDy=
+namics-Database-Visibility-what-naming-conventions-are/ta-p/46679" target=
+=3D"_blank" class=3D"contentf-button aui-button aui-button-primary" style=
+=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-icon=
+font-info"> info </span> DB Vis - Naming Convention </a> </p>
+<p><a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/For-AppDy=
+namics-Dashboards-what-naming-conventions-are/ta-p/45988" target=3D"_blank"=
+ class=3D"contentf-button aui-button aui-button-primary" style=3D"text-deco=
+ration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info"> i=
+nfo </span> Dashboards - Naming Convention </a> </p>
+<p><a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/For-Analy=
+tics-metrics-what-naming-conventions-are-recommended/ta-p/45990" target=3D"=
+_blank" class=3D"contentf-button aui-button aui-button-primary" style=3D"te=
+xt-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-i=
+nfo"> info </span> Analytics - Naming Convention </a> </p>
+<p><br></p>
+<p><a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/For-AppDy=
+namics-Machine-Agent-what-naming-conventions-are/ta-p/46678" target=3D"_bla=
+nk" class=3D"contentf-button aui-button aui-button-primary" style=3D"text-d=
+ecoration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info"=
+> info </span> Infra Vis - Naming Convention </a> <a href=3D"https://commun=
+ity.appdynamics.com/t5/Knowledge-Base/Changes-to-synthetic-monitoring-brows=
+ers/ta-p/45366" target=3D"_blank" class=3D"contentf-button aui-button aui-b=
+utton-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon aui=
+-icon-small aui-iconfont-info"> info </span> Syn - Changes to Synthetic Mon=
+itoring Browsers </a> </p>
+<p><a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/For-APM-w=
+hat-naming-conventions-are-recommended/ta-p/45527" target=3D"_blank" class=
+=3D"contentf-button aui-button aui-button-primary" style=3D"text-decoration=
+: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info"> info </=
+span> APM - Naming Convention </a> <a href=3D"https://community.appdynamics=
+.com/t5/Knowledge-Base/The-troubleshooter-s-mind-an-introduction/ta-p/43216=
+" target=3D"_blank" class=3D"contentf-button aui-button aui-button-primary"=
+ style=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small au=
+i-iconfont-info"> info </span> TroubleShooting - Intro </a> </p>
+<p><a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/Advanced-=
+AppDynamics-troubleshooting-and-tools/ta-p/45798" target=3D"_blank" class=
+=3D"contentf-button aui-button aui-button-primary" style=3D"text-decoration=
+: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info"> info </=
+span> TroubleShooting - Troubleshoot and Tools </a> </p>
+<p><a href=3D"https://community.appdynamics.com/t5/Knowledge-Base/New-Synth=
+etic-monitoring-APIs-and-use-cases/ta-p/47674" target=3D"_blank" class=3D"c=
+ontentf-button aui-button aui-button-primary" style=3D"text-decoration: non=
+e"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info"> info </span>=
+ Syn - New Synthetic monitoring for APIs </a> </p>
+<p><br></p>
+</div>
+</div>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p style=3D"text-align: left;"><strong> <u>YouTube:</u> </strong></p>
+<p class=3D"cert-prog-analyst">Synthetics</p>
+<p class=3D"categorized_certi-title--sm certi-role"><a href=3D"https://www.=
+youtube.com/watch?v=3DhEL0nMR7amQ" target=3D"_blank" class=3D"contentf-butt=
+on aui-button aui-button-primary" style=3D"text-decoration: none"> <span cl=
+ass=3D"aui-icon aui-icon-small aui-iconfont-view"> view </span> AppDynamics=
+ Micro Demo: Synthetic API Monitoring </a> </p>
+<p class=3D"cert-prog-analyst">Example</p>
+<p class=3D"categorized_certi-title--sm certi-role"><a href=3D"https://univ=
+ersity.appdynamics.com/certifications/associate-administrator" target=3D"_b=
+lank" class=3D"contentf-button aui-button aui-button-primary" style=3D"text=
+-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-vie=
+w"> view </span> MORE INFO </a> </p>
+<p class=3D"cert-prog-analyst">Example</p>
+<p style=3D"text-align: left;"><a href=3D"https://university.appdynamics.co=
+m/certifications/implementation-professional" target=3D"_blank" class=3D"co=
+ntentf-button aui-button aui-button-primary" style=3D"text-decoration: none=
+"> <span class=3D"aui-icon aui-icon-small aui-iconfont-view"> view </span> =
+MORE INFO </a> </p>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<p style=3D"text-align: left;"><strong> <u>Vimeo:</u> </strong></p>
+<p class=3D"cert-prog-analyst">Example</p>
+<p class=3D"categorized_certi-title--sm certi-role"><a href=3D"https://univ=
+ersity.appdynamics.com/certifications/performance-analyst" target=3D"_blank=
+" class=3D"contentf-button aui-button aui-button-primary" style=3D"text-dec=
+oration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-view"> =
+view </span> MORE INFO </a> </p>
+<p class=3D"cert-prog-analyst">Example</p>
+<p class=3D"categorized_certi-title--sm certi-role"><a href=3D"https://univ=
+ersity.appdynamics.com/certifications/associate-administrator" target=3D"_b=
+lank" class=3D"contentf-button aui-button aui-button-primary" style=3D"text=
+-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-vie=
+w"> view </span> MORE INFO </a> </p>
+<p class=3D"cert-prog-analyst">Example</p>
+<p style=3D"text-align: left;"><a href=3D"https://university.appdynamics.co=
+m/certifications/implementation-professional" target=3D"_blank" class=3D"co=
+ntentf-button aui-button aui-button-primary" style=3D"text-decoration: none=
+"> <span class=3D"aui-icon aui-icon-small aui-iconfont-view"> view </span> =
+MORE INFO </a> </p>
+</div>
+</div>
+</div>
+</div>
+<p><br></p>
+<p><br></p>
+<div class=3D"" style=3D"background-color: black;">
+<span style=3D"color: rgb(0,0,0);">&nbsp;&nbsp;</span>
+</div>
+<div class=3D"" style=3D"background-color: #C0FFC0;">
+<h1 id=3D"InternalAppDHub-DocumentationandRepos"><strong>Documentation and =
+Repos</strong></h1>
+</div>
+<div class=3D"" style=3D"background-color: lavender;">
+<h2 id=3D"InternalAppDHub-AppDInternal"><strong>AppD Internal</strong></h2>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<p><br></p>
+<div class=3D"sectionMacroRow">
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<h3 id=3D"InternalAppDHub-Forms.Compliance,ExpectationRACI,andSLA's"><u> <s=
+trong>Forms. <em>Compliance, Expectation RACI, and SLA's</em></strong> </u>=
+</h3>
+<p><a href=3D"https://docs.appdynamics.com/22.4/en" target=3D"_blank" class=
+=3D"contentf-button aui-button aui-button-primary" style=3D"text-decoration=
+: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-success"> succ=
+ess </span> IQOQ </a> </p>
+<p><br></p>
+<p><em><strong>&lt;&lt;PLACEHOLDER: Compliance Checks&gt;&gt;</strong></em>=
+</p>
+<p><u> <strong> </strong> </u></p>
+<p><em><strong>&lt;&lt;PLACEHOLDER: Expectation RACI&gt;&gt;</strong></em><=
+/p>
+<p><em><strong>&lt;&lt;PLACEHOLDER: AppD Team SLA's&gt;&gt;</strong></em></=
+p>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<h3 id=3D"InternalAppDHub-DocumentationandRecordings"><u> <strong>Documenta=
+tion and Recordings</strong></u></h3>
+<p><u><strong>Documentation:</strong> </u></p>
+<p><em> <strong>&lt;&lt;PLACEHOLDER: Documentation&gt;&gt;</strong></em></p=
+>
+<p><br></p>
+<p><u><strong>Runbooks:</strong> </u></p>
+<p><em> <strong>&lt;&lt;PLACEHOLDER: &nbsp;Implementers&gt;&gt;</strong> </=
+em></p>
+<p><em><strong>&lt;&lt;PLACEHOLDER: &nbsp;Developers&gt;&gt;</strong></em><=
+/p>
+<p><em><strong>&lt;&lt;PLACEHOLDER: &nbsp;Performance Engineers&gt;&gt;</st=
+rong></em></p>
+<p><a href=3D"https://community.appdynamics.com/" target=3D"_blank" class=
+=3D"contentf-button aui-button aui-button-primary" style=3D"text-decoration=
+: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info"> info </=
+span> Implementer Series: Download and Install Java Agents </a> </p>
+<p style=3D"margin-left: 40.0px;"><br></p>
+<p><u><strong>Internal Recorded Learning:</strong> </u></p>
+<p><em> <strong>&lt;&lt;PLACEHOLDER: Recorded Internal-Only working session=
+s, lunch and learns, etc.&gt;&gt;</strong></em></p>
+<p><br></p>
+</div>
+<div class=3D"columnMacro" style=3D"width:33%;min-width:33%;max-width:33%;"=
+>
+<h3 id=3D"InternalAppDHub-Repos"><u> <strong>Repos</strong> </u></h3>
+<p style=3D"margin-left: 40.0px;"><a href=3D"/pages/createpage.action?space=
+Key=3D~cmbonann@appdynamics.com&amp;title=3Dexample&amp;linkCreation=3Dtrue=
+&amp;fromPageId=3D199264561" target=3D"_blank" class=3D"contentf-button aui=
+-button aui-button-primary" style=3D"text-decoration: none"> <span class=3D=
+"aui-icon aui-icon-small aui-iconfont-share"> share </span> INTERNAL GITHUB=
+ </a> </p>
+<p style=3D"margin-left: 40.0px;"><a href=3D"/pages/createpage.action?space=
+Key=3D~cmbonann@appdynamics.com&amp;title=3Dexample&amp;linkCreation=3Dtrue=
+&amp;fromPageId=3D199264561" target=3D"_blank" class=3D"contentf-button aui=
+-button aui-button-primary" style=3D"text-decoration: none"> <span class=3D=
+"aui-icon aui-icon-small aui-iconfont-share"> share </span> NEXUS ARTIFACTS=
+ </a> </p>
+</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class=3D"" style=3D"background-color: lavender;">
+<h2 id=3D"InternalAppDHub-AppDCore"><strong>AppD Core</strong></h2>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<div class=3D"sectionMacroRow">
+<div class=3D"columnMacro" style=3D"width:50%;min-width:50%;max-width:50%;"=
+>
+<h3 style=3D"text-align: left;" id=3D"InternalAppDHub-OfficialDocs"><u> <st=
+rong>Official Docs</strong> </u></h3>
+<h4 id=3D"InternalAppDHub-General"><strong>General</strong></h4>
+<p><a href=3D"https://docs.appdynamics.com/22.4/en" target=3D"_blank" class=
+=3D"contentf-button aui-button aui-button-primary" style=3D"text-decoration=
+: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-info"> info </=
+span> AppDynamics DOCS </a> </p>
+<h4 id=3D"InternalAppDHub-AgentInstalls"><strong>Agent Installs</strong></h=
+4>
+<div id=3D"expander-941273451" class=3D"expand-container">
+<div id=3D"expander-control-941273451" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">Agent Install Guide List...</=
+span>
+</div>
+<div id=3D"expander-content-941273451" class=3D"expand-content">
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>=20
+<col>=20
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/java-agent" class=3D"exter=
+nal-link" rel=3D"nofollow">Java Agent&nbsp;</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/net-agent" class=3D"extern=
+al-link" rel=3D"nofollow">.NET Agent&nbsp;</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/node-js-agent" class=3D"ex=
+ternal-link" rel=3D"nofollow">Node.js Agent</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/php-agent" class=3D"extern=
+al-link" rel=3D"nofollow">PHP Agent&nbsp;</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/python-agent" class=3D"ext=
+ernal-link" rel=3D"nofollow">Python Agent</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/serverless-apm-for-aws-lam=
+bda" class=3D"external-link" rel=3D"nofollow">Serverless&nbsp;APM for AWS L=
+ambda</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/apache-web-server-agent" c=
+lass=3D"external-link" rel=3D"nofollow">Apache Web Server Agent</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/c-c++-sdk" class=3D"extern=
+al-link" rel=3D"nofollow">C/C++ SDK</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/go-sdk/use-go-sdk" class=
+=3D"external-link" rel=3D"nofollow">Go Language Agent</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+application-monitoring/install-app-server-agents/ibm-integration-bus-agent"=
+ class=3D"external-link" rel=3D"nofollow">IBM Integration Bus Agent</a></td=
+>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/display/=
+SAP/SAP+Monitoring+Using+AppDynamics" class=3D"external-link" rel=3D"nofoll=
+ow">SAP Monitoring Using AppDynamics</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/display/=
+RUBY/Getting+Started+with+Ruby+Agent" class=3D"external-link" rel=3D"nofoll=
+ow">Getting Started with Ruby Agent</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/22.2/en/=
+infrastructure-visibility/monitor-cloud-applications" class=3D"external-lin=
+k" rel=3D"nofollow">Cloud Application Monitoring</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/21.4/en/=
+infrastructure-visibility/machine-agent" class=3D"external-link" rel=3D"nof=
+ollow">Machine Agent</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/22.2/en/=
+database-visibility/administer-the-database-agent/install-the-database-agen=
+t" class=3D"external-link" rel=3D"nofollow">DB Agent</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/22.2/en/=
+end-user-monitoring" class=3D"external-link" rel=3D"nofollow">End User Moni=
+toring</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><a href=3D"https://docs.appdynamics.com/22.2/en/=
+application-security-monitoring" class=3D"external-link" rel=3D"nofollow">A=
+pplication Security Monitoring</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<h4 id=3D"InternalAppDHub-Extensions"><strong>Extensions</strong></h4>
+<p class=3D"auto-cursor-target"><a href=3D"https://docs.appdynamics.com/22.=
+2/en/infrastructure-visibility/machine-agent/extensions-and-custom-metrics"=
+ target=3D"_blank" class=3D"contentf-button aui-button aui-button-primary" =
+style=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-small aui=
+-iconfont-add"> add </span> Extension Docs </a> </p>
+<h4 id=3D"InternalAppDHub-Integrations"><strong>Integrations</strong></h4>
+<p><a href=3D"https://docs.appdynamics.com/21.4/en/extend-appdynamics/integ=
+ration-modules" target=3D"_blank" class=3D"contentf-button aui-button aui-b=
+utton-primary" style=3D"text-decoration: none"> <span class=3D"aui-icon aui=
+-icon-small aui-iconfont-add"> add </span> Integration Docs </a> </p>
+<h4 id=3D"InternalAppDHub-API's"><strong>API's</strong></h4>
+<p><u> <strong> <a href=3D"https://docs.appdynamics.com/21.7/en/extend-appd=
+ynamics/appdynamics-apis" target=3D"_blank" class=3D"contentf-button aui-bu=
+tton aui-button-primary" style=3D"text-decoration: none"> <span class=3D"au=
+i-icon aui-icon-small aui-iconfont-add"> add </span> AppD API's </a> </stro=
+ng> </u></p>
+</div>
+<div class=3D"columnMacro" style=3D"width:50%;min-width:50%;max-width:50%;"=
+>
+<h3 id=3D"InternalAppDHub-Repos.1"><u> <strong>Repos</strong> </u></h3>
+<p><strong>GitHub:</strong></p>
+<p><a href=3D"https://github.com/topics/appdynamics" target=3D"_blank" clas=
+s=3D"contentf-button aui-button aui-button-primary" style=3D"text-decoratio=
+n: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-share"> share=
+ </span> AppDynamics Public Repositories </a> </p>
+<p><br></p>
+<p><strong>Recommended</strong>:</p>
+<div id=3D"expander-854731752" class=3D"expand-container">
+<div id=3D"expander-control-854731752" class=3D"expand-control" aria-expand=
+ed=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">DEXTER</span>
+</div>
+<div id=3D"expander-content-854731752" class=3D"expand-content">
+<p><strong>Dexter: </strong>AppDynamics provides a rich source of informati=
+on about your monitored applications, including the performance of individu=
+al business activities, dependency flow between application components, and=
+ details on every business transaction in an instrumented environment.</p>
+<p>AppDynamics APM provides a rich toolkit for turning the vast corpus of d=
+ata captured by AppDynamics into valuable insights.</p>
+<p>AppDynamics DEXTER (Data Extraction and Enhanced Reporting) can make thi=
+s process even faster and simpler. DEXTER provides new ways to unlock the d=
+ata stored in the AppDynamics platform. You can analyze this information in=
+ a number of data warehousing and visualization applications, and combine i=
+t with your own data to generate customized reports.</p>
+<p><a href=3D"https://github.com/Appdynamics/AppDynamics.DEXTER" target=3D"=
+_blank" class=3D"contentf-button aui-button aui-button-primary" style=3D"te=
+xt-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-s=
+hare"> share </span> github repo - Dexter </a> </p>
+</div>
+</div>
+<div id=3D"expander-1189257216" class=3D"expand-container">
+<div id=3D"expander-control-1189257216" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">HelmCharts</span>
+</div>
+<div id=3D"expander-content-1189257216" class=3D"expand-content">
+<p><strong>AppDynamics Helm Charts:</strong> Welcome to the repository of H=
+elm charts for deployments of AppDynamics agents.</p>
+<p><a href=3D"https://github.com/CiscoDevNet/appdynamics-charts" target=3D"=
+_blank" class=3D"contentf-button aui-button aui-button-primary" style=3D"te=
+xt-decoration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-s=
+hare"> share </span> github repo - HelmCharts </a> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p style=3D"text-align: center;"><br></p>
+<p style=3D"text-align: center;"><br></p>
+<div class=3D"" style=3D"background-color: black;">
+<span style=3D"color: rgb(0,0,0);">&nbsp;&nbsp;</span>
+</div>
+<div class=3D"" style=3D"background-color: #FFFFC0;">
+<h1 id=3D"InternalAppDHub-EventCalendar"><strong> <span style=3D"color: rgb=
+(25,33,43);">Event Calendar</span> </strong></h1>
+</div>
+<p></p>
+<div class=3D"sectionColumnWrapper">
+<div class=3D"sectionMacroWithBorder">
+<div class=3D"sectionMacroRow">
+<div class=3D"columnMacro" style=3D"width:25%;min-width:25%;max-width:25%;"=
+>
+<p><strong> <u>AppD Core Events:</u> </strong></p>
+<p><br></p>
+<p><strong> <u> <span style=3D"color: rgb(25,33,43);"> <a href=3D"https://w=
+ww.appdynamics.com/events" class=3D"contentf-button aui-button aui-button-p=
+rimary" style=3D"text-decoration: none"> <span class=3D"aui-icon aui-icon-s=
+mall aui-iconfont-info"> info </span> AppD (Official) Events </a> </span> <=
+/u> </strong></p>
+<p><br></p>
+<p style=3D"text-align: left;"><span style=3D"color: rgb(25,33,43);"> <a hr=
+ef=3D"https://docs.appdynamics.com/22.3/en/product-and-release-announcement=
+s" class=3D"contentf-button aui-button aui-button-primary" style=3D"text-de=
+coration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-workbo=
+x"> workbox </span> Product and Release Announcements </a> </span></p>
+<p style=3D"text-align: left;"><br></p>
+<p style=3D"text-align: left;"><span style=3D"color: rgb(25,33,43);"> <a hr=
+ef=3D"https://docs.appdynamics.com/22.3/en/product-and-release-announcement=
+s" class=3D"contentf-button aui-button aui-button-primary" style=3D"text-de=
+coration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-config=
+ure"> configure </span> Agent Enhancements </a> </span></p>
+<p style=3D"text-align: left;"><br></p>
+<p style=3D"text-align: left;"><span style=3D"color: rgb(25,33,43);"> <a hr=
+ef=3D"https://docs.appdynamics.com/22.3/en/product-and-release-announcement=
+s" class=3D"contentf-button aui-button aui-button-primary" style=3D"text-de=
+coration: none"> <span class=3D"aui-icon aui-icon-small aui-iconfont-config=
+ure"> configure </span> Controller Enhancements </a> </span></p>
+<p style=3D"margin-left: 40.0px;text-align: left;"><br></p>
+</div>
+<div class=3D"columnMacro" style=3D"width:75%;min-width:75%;max-width:75%;"=
+>
+<p><strong> <u>Internal Calendar:</u> </strong></p>
+<p><span style=3D"color: rgb(25,33,43);"> </span></p>
+<div class=3D"plugin-calendar" style=3D"border: #d5d5d5 thin solid; padding=
+: 10px;"> <span>Team Calendars</span>=20
+</div>=20
+<p></p>
+</div>
+</div>
+</div>
+</div>
+<p style=3D"margin-left: 40.0px;text-align: center;"><br></p>
+<p style=3D"margin-left: 40.0px;"><br></p>
+<p style=3D"text-align: center;"><br></p>
+<p style=3D"text-align: center;"><span style=3D"color: rgb(25,33,43);"> <br=
+></span></p>
+<p><br></p>
+<div class=3D"" style=3D"background-color: black;">
+<span style=3D"color: rgb(0,0,0);">&nbsp;&nbsp;</span>
+</div>
+<div class=3D"" style=3D"background-color: orange;">
+<h1 id=3D"InternalAppDHub-Glossary"><strong>Glossary</strong></h1>
+</div>
+<br>
+<p></p>
+<h2 style=3D"margin-left: 40.0px;" id=3D"InternalAppDHub-InternalandMost-Us=
+edTerms:"><strong>Internal and Most-Used Terms:</strong></h2>
+<ul>
+<li style=3D"list-style-type: none;">
+<ul>
+<li><strong>Onboarding/Intake </strong>=3D Initial instrumentation of AppDy=
+namics solutions across an application, infrastructure, websites, databases=
+, etc...</li>
+<li>Break/Fix =3D Engagement of an internal AppD Admin to figure out an iss=
+ue in an existing instrumentation, and is past its initial onboarding perio=
+d.</li>
+<li>Example 3</li>
+</ul></li>
+</ul>
+<p style=3D"margin-left: 40.0px;"><br></p>
+<h2 style=3D"margin-left: 40.0px;" id=3D"InternalAppDHub-AppDynamicsTerms:"=
+><strong>AppDynamics Terms:</strong></h2>
+<p style=3D"margin-left: 40.0px;">Official AppD glossary:<span>&nbsp;</span=
+> <a href=3D"https://docs.appdynamics.com/21.5/en/glossary" class=3D"extern=
+al-link" rel=3D"nofollow">https://docs.appdynamics.com/21.5/en/glossary</a>=
+</p>
+<ul>
+<li style=3D"list-style-type: none;">
+<ul>
+<li>Familiarize yourself with a list of common terms you may come across as=
+ an AppDynamics user.&nbsp;</li>
+</ul></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+    </div>
+</body>
+</html>
+------=_Part_161647_2146561156.1684434520422--
